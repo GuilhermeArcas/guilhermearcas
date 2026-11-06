@@ -1,8 +1,18 @@
-# 👾 Guilherme Arcas
+# Olá, eu sou o Guilherme 👋
 
-**`Desenvolvedor Mobile / FullStack`**
+**Desenvolvedor Fullstack Júnior | JavaScript · TypeScript · Angular · Node.js**
 
-Me chamo Guilherme Arcas, atualmente estou cursando Ciência da Computação na Afya Ji-Paraná. Sempre fui apaixonado por tecnologia e nos últimos tempos venho me interessando no Desenvolvimento Mobile (Flutter & Dart), mas possuo experiência acadêmia em linguagens como Java, JavaScript, HTML, CSS, python e outras tecnologias como: Jupyter Notebook, pandas, Firebase, Figma, entre outros. :)
+Estudante de Ciência da Computação na Afya Ji-Paraná. Desenvolvo
+aplicações web e mobile e hoje foco em Angular 19 e TypeScript no
+front-end, Node.js no back-end e práticas de DevOps (Git, Docker, CI/CD).
+Busco minha primeira oportunidade como desenvolvedor júnior ou estagiário.
+
+## 🛠️ Tecnologias
+**No dia a dia:** JavaScript, HTML, CSS, Flutter/Dart, Firebase, Git, [React, Node.js, MySQL]
+**Estudando:** TypeScript, Angular 19, Docker, PostgreSQL, CI/CD
+
+## 🚀 Projetos em destaque
+- **DONE! To-Do App**: Flutter, Dart e Firebase (login, recuperação de senha, sincronização em nuvem)
 
 <p align="left">
         <img 
